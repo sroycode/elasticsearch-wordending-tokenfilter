@@ -7,8 +7,8 @@
     <version>0.0.1</version>
 
     <properties>
-        <elasticsearch.version>0.90.0</elasticsearch.version>
-        <lucene.version>4.4.0</lucene.version>
+        <elasticsearch.version>1.7.3</elasticsearch.version>
+        <lucene.version>5.3.1</lucene.version>
         <junit.version>4.10</junit.version>
         <java.source.version></java.source.version>
         <java.target.version></java.target.version>
